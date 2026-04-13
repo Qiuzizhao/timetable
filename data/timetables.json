@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13 18:00:34",
+  "updated_at": "2026-04-13 19:05:56",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -2007,9 +2007,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "五(4)语",
-        "course_color": "",
-        "raw_text": "五(4)语"
+        "course": "朱莉莉换",
+        "course_color": "808080",
+        "raw_text": "朱莉莉换"
       },
       {
         "week_no": 7,
@@ -2064,6 +2064,17 @@
         "time": "10:35",
         "course": "五(4)语",
         "course_color": "",
+        "raw_text": "五(4)语"
+      },
+      {
+        "week_no": 7,
+        "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "五(4)语",
+        "course_color": "0000FF",
         "raw_text": "五(4)语"
       },
       {
