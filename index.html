@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>课表查询</title>
     <style>
         :root {
@@ -190,47 +190,11 @@
         }
         
         @media (max-width: 768px) {
-            body { padding: 15px 10px; }
-            h1 { font-size: 24px; margin-bottom: 16px; }
-            .controls { 
-                padding: 12px 16px; 
-                gap: 12px;
-                flex-direction: column;
-                align-items: stretch;
-            }
-            .meta-info { margin-left: 0; width: 100%; text-align: center; font-size: 12px; padding: 4px 8px; }
-            select { width: 100%; text-align: center; background-position: right 16px center; }
-            
-            .table-container { 
-                padding: 0; /* 手机端取消容器内边距，让表格撑满 */
-                border-radius: 8px;
-                box-shadow: none; /* 减轻手机端阴影 */
-                border: none;
-                margin: 0 -10px; /* 让滚动区域贴边 */
-                width: calc(100% + 20px);
-            }
-            table {
-                table-layout: auto; /* 手机端取消固定列宽，允许自适应内容和横向滚动 */
-                border-radius: 0;
-                border-left: none;
-                border-right: none;
-                min-width: 600px; /* 强制表格有最小宽度，触发横向滚动 */
-            }
-            .title-row th { 
-                font-size: 18px; 
-                padding: 16px 6px 8px;
-            }
-            .created-row td {
-                font-size: 12px;
-                padding: 0 6px 16px;
-            }
-            .col-time, .col-sec { width: 45px; font-size: 12px; }
-            .col-day { width: auto; min-width: 80px; } /* 允许横向滚动时单元格有合理最小宽度 */
-            th, td { 
-                padding: 8px 4px; 
-                font-size: 13px; 
-            }
-            td span { line-height: 1.4; }
+            .meta-info { margin-left: 0; width: 100%; text-align: center; }
+            .col-time, .col-sec { width: 60px; font-size: 13px; }
+            th, td { padding: 10px 4px; font-size: 14px; }
+            .title-row th { font-size: 18px; }
+            .table-container { padding: 15px; border-radius: 12px; }
         }
     </style>
 </head>
