@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14 15:00:03",
+  "updated_at": "2026-04-14 16:00:03",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -2551,9 +2551,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "二(14)探",
-        "course_color": "",
-        "raw_text": "二(14)探"
+        "course": "王显甲换",
+        "course_color": "808080",
+        "raw_text": "王显甲换"
       },
       {
         "week_no": 7,
@@ -2620,6 +2620,17 @@
         "course": "二(10)数",
         "course_color": "",
         "raw_text": "二(10)数"
+      },
+      {
+        "week_no": 7,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "二(14)探",
+        "course_color": "0000FF",
+        "raw_text": "二(14)探"
       },
       {
         "week_no": 7,
