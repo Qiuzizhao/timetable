@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 14:00:04",
+  "updated_at": "2026-04-16 15:00:04",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -1259,9 +1259,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(1)语",
-        "course_color": "0000FF",
-        "raw_text": "三(1)语"
+        "course": "张英琪帮",
+        "course_color": "808080",
+        "raw_text": "张英琪帮"
       },
       {
         "week_no": 7,
