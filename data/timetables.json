@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 10:00:06",
+  "updated_at": "2026-04-16 11:00:05",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -109,6 +109,17 @@
         "course": "张少虹换",
         "course_color": "808080",
         "raw_text": "张少虹换"
+      },
+      {
+        "week_no": 7,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(8)科",
+        "course_color": "0000FF",
+        "raw_text": "三(8)科"
       },
       {
         "week_no": 7,
@@ -311,9 +322,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "三(8)科",
-        "course_color": "",
-        "raw_text": "三(8)科"
+        "course": "温秋花换",
+        "course_color": "808080",
+        "raw_text": "温秋花换"
       },
       {
         "week_no": 8,
