@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 08:00:04",
+  "updated_at": "2026-04-17 09:00:04",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -109,17 +109,6 @@
         "course": "张少虹换",
         "course_color": "808080",
         "raw_text": "张少虹换"
-      },
-      {
-        "week_no": 7,
-        "slot_type": "normal",
-        "weekday": "周四",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "三(8)科",
-        "course_color": "0000FF",
-        "raw_text": "三(8)科"
       },
       {
         "week_no": 7,
@@ -333,9 +322,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "温秋花换",
-        "course_color": "808080",
-        "raw_text": "温秋花换"
+        "course": "三(8)科",
+        "course_color": "",
+        "raw_text": "三(8)科"
       },
       {
         "week_no": 8,
@@ -2760,9 +2749,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "二(10)数",
-        "course_color": "",
-        "raw_text": "二(10)数"
+        "course": "郑瑜换",
+        "course_color": "808080",
+        "raw_text": "郑瑜换"
       },
       {
         "week_no": 7,
@@ -2806,6 +2795,17 @@
         "course": "一(9)数",
         "course_color": "",
         "raw_text": "一(9)数"
+      },
+      {
+        "week_no": 7,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "二(10)数",
+        "course_color": "0000FF",
+        "raw_text": "二(10)数"
       },
       {
         "week_no": 7,
