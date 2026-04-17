@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 11:00:04",
+  "updated_at": "2026-04-17 12:00:04",
   "week_start": "2026-04-13",
   "current_week": null,
   "users": [
@@ -156,6 +156,17 @@
       },
       {
         "week_no": 7,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "六(6)电",
+        "course_color": "0000FF",
+        "raw_text": "六(6)电"
+      },
+      {
+        "week_no": 7,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -204,9 +215,9 @@
         "section_no": 5,
         "section": "第5节",
         "time": "14:20",
-        "course": "六(6)电",
-        "course_color": "0000FF",
-        "raw_text": "六(6)电"
+        "course": "戴伟霞换",
+        "course_color": "808080",
+        "raw_text": "戴伟霞换"
       },
       {
         "week_no": 7,
