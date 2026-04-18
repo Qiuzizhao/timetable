@@ -212,11 +212,22 @@
         
         @media (max-width: 480px) {
             /* Extra compact for small phones */
-            .col-time { width: 38px; font-size: 11px; }
-            .col-sec { width: 36px; font-size: 11px; }
-            .col-day { width: calc((100% - 74px) / 5); }
-            th, td { padding: 6px 1px; font-size: 12px; }
-            td span { font-size: 12px; }
+            body { padding: 4px 2px; }
+            h1 { font-size: 20px; margin-bottom: 10px; }
+            .controls { padding: 8px; gap: 8px; margin-bottom: 10px; }
+            .table-container { padding: 4px; border-radius: 6px; }
+            
+            table { margin-bottom: 15px; border-radius: 6px; }
+            
+            .col-time { width: 34px; font-size: 10px; }
+            .col-sec { width: 32px; font-size: 10px; }
+            .col-day { width: calc((100% - 66px) / 5); }
+            
+            th, td { padding: 4px 1px; font-size: 11px; letter-spacing: -0.2px; }
+            td span { font-size: 11px; line-height: 1.1; }
+            
+            .title-row th { font-size: 16px; padding: 8px 2px 6px; }
+            .created-row td { font-size: 10px; padding: 0 2px 8px; }
         }
     </style>
 </head>
