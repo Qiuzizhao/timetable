@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19 23:00:03",
-  "week_start": "2026-04-13",
+  "updated_at": "2026-04-20 00:00:03",
+  "week_start": "2026-04-20",
   "current_week": null,
   "users": [
     "邱梓钊",
@@ -2568,7 +2568,7 @@
     ],
     "王尧": [
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -2578,7 +2578,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周一",
         "section_no": 0,
@@ -2589,7 +2589,7 @@
         "raw_text": "一(9)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
@@ -2600,7 +2600,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周四",
         "section_no": 0,
@@ -2611,7 +2611,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周五",
         "section_no": 0,
@@ -2622,18 +2622,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 7,
-        "slot_type": "normal",
-        "weekday": "周二",
-        "section_no": 1,
-        "section": "第1节",
-        "time": "8:50",
-        "course": "二(10)数",
-        "course_color": "0000FF",
-        "raw_text": "二(10)数"
-      },
-      {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 1,
@@ -2644,18 +2633,18 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "王显甲换",
-        "course_color": "808080",
-        "raw_text": "王显甲换"
+        "course": "二(14)探",
+        "course_color": "",
+        "raw_text": "二(14)探"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 2,
@@ -2666,7 +2655,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周二",
         "section_no": 2,
@@ -2677,7 +2666,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 2,
@@ -2688,7 +2677,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 2,
@@ -2699,7 +2688,7 @@
         "raw_text": "二(10)探"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 2,
@@ -2710,7 +2699,7 @@
         "raw_text": "一(9)探"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 3,
@@ -2721,29 +2710,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 7,
-        "slot_type": "normal",
-        "weekday": "周五",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "二(14)探",
-        "course_color": "0000FF",
-        "raw_text": "二(14)探"
-      },
-      {
-        "week_no": 7,
-        "slot_type": "normal",
-        "weekday": "周二",
-        "section_no": 4,
-        "section": "第4节",
-        "time": "11:25",
-        "course": "一(12)代",
-        "course_color": "FF0000",
-        "raw_text": "一(12)代"
-      },
-      {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 4,
@@ -2754,18 +2721,18 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "郑瑜换",
-        "course_color": "808080",
-        "raw_text": "郑瑜换"
+        "course": "二(10)数",
+        "course_color": "",
+        "raw_text": "二(10)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -2775,7 +2742,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 5,
@@ -2786,18 +2753,18 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周二",
         "section_no": 5,
         "section": "第5节",
         "time": "14:20",
-        "course": "郑瑜换",
-        "course_color": "808080",
-        "raw_text": "郑瑜换"
+        "course": "二(10)数",
+        "course_color": "",
+        "raw_text": "二(10)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 5,
@@ -2808,18 +2775,7 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 7,
-        "slot_type": "normal",
-        "weekday": "周五",
-        "section_no": 5,
-        "section": "第5节",
-        "time": "14:20",
-        "course": "二(10)数",
-        "course_color": "0000FF",
-        "raw_text": "二(10)数"
-      },
-      {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 6,
@@ -2830,7 +2786,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -2840,7 +2796,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
@@ -2851,7 +2807,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周三",
         "section_no": 0,
@@ -2862,7 +2818,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周四",
         "section_no": 0,
@@ -2873,7 +2829,7 @@
         "raw_text": "一(9)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周五",
         "section_no": 0,
@@ -2884,7 +2840,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -2894,7 +2850,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 7,
+        "week_no": 8,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
@@ -2905,7 +2861,7 @@
         "raw_text": "二(7)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -2915,7 +2871,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周一",
         "section_no": 0,
@@ -2926,7 +2882,7 @@
         "raw_text": "一(9)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
@@ -2937,7 +2893,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周四",
         "section_no": 0,
@@ -2948,7 +2904,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周五",
         "section_no": 0,
@@ -2959,7 +2915,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 1,
@@ -2970,7 +2926,7 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 1,
@@ -2981,7 +2937,7 @@
         "raw_text": "二(14)探"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 2,
@@ -2992,7 +2948,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周二",
         "section_no": 2,
@@ -3003,7 +2959,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 2,
@@ -3014,7 +2970,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 2,
@@ -3025,7 +2981,7 @@
         "raw_text": "二(10)探"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 2,
@@ -3036,7 +2992,7 @@
         "raw_text": "一(9)探"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 3,
@@ -3047,7 +3003,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周三",
         "section_no": 4,
@@ -3058,7 +3014,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周五",
         "section_no": 4,
@@ -3069,7 +3025,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -3079,7 +3035,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周一",
         "section_no": 5,
@@ -3090,7 +3046,7 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周二",
         "section_no": 5,
@@ -3101,7 +3057,7 @@
         "raw_text": "二(10)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 5,
@@ -3112,7 +3068,7 @@
         "raw_text": "一(9)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "normal",
         "weekday": "周四",
         "section_no": 6,
@@ -3123,7 +3079,7 @@
         "raw_text": "二(14)数"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -3133,7 +3089,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
@@ -3144,7 +3100,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周三",
         "section_no": 0,
@@ -3155,7 +3111,7 @@
         "raw_text": "二(10)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周四",
         "section_no": 0,
@@ -3166,7 +3122,7 @@
         "raw_text": "一(9)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周五",
         "section_no": 0,
@@ -3177,7 +3133,7 @@
         "raw_text": "二(14)"
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -3187,7 +3143,7 @@
         "raw_text": ""
       },
       {
-        "week_no": 8,
+        "week_no": 9,
         "slot_type": "special",
         "weekday": "周二",
         "section_no": 0,
