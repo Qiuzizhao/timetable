@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20 15:00:03",
+  "updated_at": "2026-04-20 16:00:03",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -1036,6 +1036,17 @@
       {
         "week_no": 8,
         "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(1)语",
+        "course_color": "0000FF",
+        "raw_text": "三(1)语"
+      },
+      {
+        "week_no": 8,
+        "slot_type": "normal",
         "weekday": "周二",
         "section_no": 4,
         "section": "第4节",
@@ -1105,9 +1116,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(1)语",
-        "course_color": "",
-        "raw_text": "三(1)语"
+        "course": "张妤萍换",
+        "course_color": "808080",
+        "raw_text": "张妤萍换"
       },
       {
         "week_no": 8,
