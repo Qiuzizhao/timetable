@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20 08:00:03",
+  "updated_at": "2026-04-20 09:00:03",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -1886,9 +1886,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "五(4)语",
-        "course_color": "",
-        "raw_text": "五(4)语"
+        "course": "余俊昌代",
+        "course_color": "808080",
+        "raw_text": "余俊昌代"
       },
       {
         "week_no": 8,
@@ -1930,9 +1930,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "二(7)体",
-        "course_color": "",
-        "raw_text": "二(7)体"
+        "course": "朱佳佳帮",
+        "course_color": "808080",
+        "raw_text": "朱佳佳帮"
       },
       {
         "week_no": 8,
@@ -1952,9 +1952,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "二(8)体",
-        "course_color": "",
-        "raw_text": "二(8)体"
+        "course": "杨遥华代",
+        "course_color": "808080",
+        "raw_text": "杨遥华代"
       },
       {
         "week_no": 8,
@@ -1995,9 +1995,9 @@
         "section_no": 5,
         "section": "第5节",
         "time": "14:20",
-        "course": "六(1)书",
-        "course_color": "",
-        "raw_text": "六(1)书"
+        "course": "陆璐代",
+        "course_color": "808080",
+        "raw_text": "陆璐代"
       },
       {
         "week_no": 8,
