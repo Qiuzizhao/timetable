@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 09:00:04",
+  "updated_at": "2026-04-21 10:00:03",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -84,9 +84,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "詹坤豪换",
-        "course_color": "808080",
-        "raw_text": "詹坤豪换"
+        "course": "三(8)帮",
+        "course_color": "008000",
+        "raw_text": "三(8)帮"
       },
       {
         "week_no": 8,
