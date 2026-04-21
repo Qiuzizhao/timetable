@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 17:00:04",
+  "updated_at": "2026-04-21 17:30:03",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -1551,9 +1551,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "一(13)科",
-        "course_color": "",
-        "raw_text": "一(13)科"
+        "course": "吴紫茵换",
+        "course_color": "808080",
+        "raw_text": "吴紫茵换"
       },
       {
         "week_no": 8,
@@ -1609,6 +1609,17 @@
         "course": "六(2)语",
         "course_color": "",
         "raw_text": "六(2)语"
+      },
+      {
+        "week_no": 8,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "一(13)科",
+        "course_color": "0000FF",
+        "raw_text": "一(13)科"
       },
       {
         "week_no": 8,
