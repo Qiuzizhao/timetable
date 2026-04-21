@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 08:00:03",
+  "updated_at": "2026-04-21 09:00:04",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -51,9 +51,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "三(8)科",
-        "course_color": "",
-        "raw_text": "三(8)科"
+        "course": "温秋花换",
+        "course_color": "808080",
+        "raw_text": "温秋花换"
       },
       {
         "week_no": 8,
@@ -108,6 +108,17 @@
         "course": "孙伊凡换",
         "course_color": "808080",
         "raw_text": "孙伊凡换"
+      },
+      {
+        "week_no": 8,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "六(5)代",
+        "course_color": "FF0000",
+        "raw_text": "六(5)代"
       },
       {
         "week_no": 8,
@@ -237,6 +248,17 @@
         "time": "7:40",
         "course": "",
         "raw_text": ""
+      },
+      {
+        "week_no": 9,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 2,
+        "section": "第2节",
+        "time": "9:40",
+        "course": "三(8)科",
+        "course_color": "0000FF",
+        "raw_text": "三(8)科"
       },
       {
         "week_no": 9,
@@ -1974,9 +1996,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "五(4)语",
-        "course_color": "",
-        "raw_text": "五(4)语"
+        "course": "王哲文代",
+        "course_color": "808080",
+        "raw_text": "王哲文代"
       },
       {
         "week_no": 8,
