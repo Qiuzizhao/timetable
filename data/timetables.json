@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22 15:00:04",
+  "updated_at": "2026-04-22 15:30:04",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -1040,9 +1040,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "李锦换",
-        "course_color": "808080",
-        "raw_text": "李锦换"
+        "course": "六(5)代",
+        "course_color": "0000FF",
+        "raw_text": "六(5)代"
       },
       {
         "week_no": 8,
@@ -1153,6 +1153,17 @@
         "course": "岑卓燕换",
         "course_color": "808080",
         "raw_text": "岑卓燕换"
+      },
+      {
+        "week_no": 8,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "蒋钰涵换",
+        "course_color": "808080",
+        "raw_text": "蒋钰涵换"
       },
       {
         "week_no": 8,
@@ -2196,6 +2207,17 @@
         "course": "二(6)体",
         "course_color": "",
         "raw_text": "二(6)体"
+      },
+      {
+        "week_no": 8,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "五(4)帮",
+        "course_color": "008000",
+        "raw_text": "五(4)帮"
       },
       {
         "week_no": 8,
