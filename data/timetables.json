@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24 15:00:04",
+  "updated_at": "2026-04-24 15:30:04",
   "week_start": "2026-04-20",
   "current_week": null,
   "users": [
@@ -2979,6 +2979,17 @@
         "course": "二(10)数",
         "course_color": "",
         "raw_text": "二(10)数"
+      },
+      {
+        "week_no": 9,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "一(2)代",
+        "course_color": "FF0000",
+        "raw_text": "一(2)代"
       },
       {
         "week_no": 9,
