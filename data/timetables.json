@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27 11:00:03",
+  "updated_at": "2026-04-27 11:30:03",
   "week_start": "2026-04-27",
   "current_week": null,
   "users": [
@@ -40,9 +40,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "三(8)科",
-        "course_color": "0000FF",
-        "raw_text": "三(8)科"
+        "course": "张英琪换",
+        "course_color": "808080",
+        "raw_text": "张英琪换"
       },
       {
         "week_no": 9,
@@ -182,9 +182,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "张坤换",
-        "course_color": "808080",
-        "raw_text": "张坤换"
+        "course": "三(8)科",
+        "course_color": "0000FF",
+        "raw_text": "三(8)科"
       },
       {
         "week_no": 9,
