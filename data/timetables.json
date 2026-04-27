@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27 13:30:04",
+  "updated_at": "2026-04-27 14:00:05",
   "week_start": "2026-04-27",
   "current_week": null,
   "users": [
@@ -40,9 +40,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "张英琪换",
-        "course_color": "808080",
-        "raw_text": "张英琪换"
+        "course": "一(13)帮",
+        "course_color": "008000",
+        "raw_text": "一(13)帮"
       },
       {
         "week_no": 9,
