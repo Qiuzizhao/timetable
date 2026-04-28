@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 10:00:04",
+  "updated_at": "2026-04-28 10:30:05",
   "week_start": "2026-04-27",
   "current_week": null,
   "users": [
@@ -547,6 +547,17 @@
       {
         "week_no": 9,
         "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 2,
+        "section": "第2节",
+        "time": "9:40",
+        "course": "三(12)帮",
+        "course_color": "008000",
+        "raw_text": "三(12)帮"
+      },
+      {
+        "week_no": 9,
+        "slot_type": "normal",
         "weekday": "周三",
         "section_no": 2,
         "section": "第2节",
@@ -1073,9 +1084,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "三(12)语",
-        "course_color": "0000FF",
-        "raw_text": "三(12)语"
+        "course": "张斌鑫帮",
+        "course_color": "808080",
+        "raw_text": "张斌鑫帮"
       },
       {
         "week_no": 9,
