@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29 14:00:03",
+  "updated_at": "2026-04-29 14:30:03",
   "week_start": "2026-04-27",
   "current_week": null,
   "users": [
@@ -62,9 +62,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "五(3)劳",
-        "course_color": "0000FF",
-        "raw_text": "五(3)劳"
+        "course": "韩艺卓帮",
+        "course_color": "808080",
+        "raw_text": "韩艺卓帮"
       },
       {
         "week_no": 9,
