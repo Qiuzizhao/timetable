@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29 17:00:03",
+  "updated_at": "2026-04-29 17:30:03",
   "week_start": "2026-04-27",
   "current_week": null,
   "users": [
@@ -2146,6 +2146,17 @@
       {
         "week_no": 9,
         "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "二(11)体",
+        "course_color": "0000FF",
+        "raw_text": "二(11)体"
+      },
+      {
+        "week_no": 9,
+        "slot_type": "normal",
         "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
@@ -2237,9 +2248,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "二(11)体",
-        "course_color": "0000FF",
-        "raw_text": "二(11)体"
+        "course": "杨盼换",
+        "course_color": "808080",
+        "raw_text": "杨盼换"
       },
       {
         "week_no": 9,
@@ -2639,9 +2650,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "二(10)探",
-        "course_color": "",
-        "raw_text": "二(10)探"
+        "course": "郑瑜换",
+        "course_color": "808080",
+        "raw_text": "郑瑜换"
       },
       {
         "week_no": 9,
@@ -2686,6 +2697,17 @@
         "course": "二(14)数",
         "course_color": "",
         "raw_text": "二(14)数"
+      },
+      {
+        "week_no": 9,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "二(10)探",
+        "course_color": "0000FF",
+        "raw_text": "二(10)探"
       },
       {
         "week_no": 9,
