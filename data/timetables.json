@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06 17:00:04",
+  "updated_at": "2026-05-06 17:30:04",
   "week_start": "2026-05-04",
   "current_week": null,
   "users": [
@@ -1963,8 +1963,19 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
+        "course": "唐欣莲换",
+        "course_color": "808080",
+        "raw_text": "唐欣莲换"
+      },
+      {
+        "week_no": 10,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
         "course": "二(11)体",
-        "course_color": "",
+        "course_color": "0000FF",
         "raw_text": "二(11)体"
       },
       {
