@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 21:00:03",
+  "updated_at": "2026-05-07 21:30:03",
   "week_start": "2026-05-04",
   "current_week": null,
   "users": [
@@ -160,9 +160,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(8)科",
-        "course_color": "",
-        "raw_text": "三(8)科"
+        "course": "温秋花帮",
+        "course_color": "808080",
+        "raw_text": "温秋花帮"
       },
       {
         "week_no": 10,
