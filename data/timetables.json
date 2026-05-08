@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 09:30:03",
+  "updated_at": "2026-05-08 10:00:03",
   "week_start": "2026-05-04",
   "current_week": null,
   "users": [
@@ -507,9 +507,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "三(6)代",
-        "course_color": "FF0000",
-        "raw_text": "三(6)代"
+        "course": "梁洁儿换",
+        "course_color": "808080",
+        "raw_text": "梁洁儿换"
       },
       {
         "week_no": 10,
