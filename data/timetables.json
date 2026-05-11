@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11 09:00:03",
+  "updated_at": "2026-05-11 09:30:04",
   "week_start": "2026-05-11",
   "current_week": null,
   "users": [
@@ -1546,6 +1546,17 @@
       },
       {
         "week_no": 11,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "六(6)书",
+        "course_color": "0000FF",
+        "raw_text": "六(6)书"
+      },
+      {
+        "week_no": 11,
         "slot_type": "special",
         "weekday": "",
         "section_no": 0,
@@ -1594,9 +1605,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "六(6)书",
-        "course_color": "",
-        "raw_text": "六(6)书"
+        "course": "王哲文换",
+        "course_color": "808080",
+        "raw_text": "王哲文换"
       },
       {
         "week_no": 11,
