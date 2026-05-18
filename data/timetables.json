@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18 08:30:03",
+  "updated_at": "2026-05-18 09:00:03",
   "week_start": "2026-05-18",
   "current_week": null,
   "users": [
@@ -1036,6 +1036,17 @@
       {
         "week_no": 12,
         "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(1)语",
+        "course_color": "0000FF",
+        "raw_text": "三(1)语"
+      },
+      {
+        "week_no": 12,
+        "slot_type": "normal",
         "weekday": "周三",
         "section_no": 3,
         "section": "第3节",
@@ -1051,9 +1062,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "三(1)语",
-        "course_color": "",
-        "raw_text": "三(1)语"
+        "course": "麦嘉敏换",
+        "course_color": "808080",
+        "raw_text": "麦嘉敏换"
       },
       {
         "week_no": 12,
