@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20 13:30:03",
+  "updated_at": "2026-05-20 14:00:04",
   "week_start": "2026-05-18",
   "current_week": null,
   "users": [
@@ -1540,9 +1540,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "一(8)劳",
-        "course_color": "0000FF",
-        "raw_text": "一(8)劳"
+        "course": "李家璇换",
+        "course_color": "808080",
+        "raw_text": "李家璇换"
       },
       {
         "week_no": 12,
@@ -1652,6 +1652,17 @@
         "course": "六(10)书",
         "course_color": "",
         "raw_text": "六(10)书"
+      },
+      {
+        "week_no": 12,
+        "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 6,
+        "section": "第6节",
+        "time": "15:05",
+        "course": "一(8)劳",
+        "course_color": "0000FF",
+        "raw_text": "一(8)劳"
       },
       {
         "week_no": 12,
