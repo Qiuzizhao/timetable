@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 08:00:04",
+  "updated_at": "2026-05-21 08:30:04",
   "week_start": "2026-05-18",
   "current_week": null,
   "users": [
@@ -543,6 +543,17 @@
         "course": "三(7)数",
         "course_color": "",
         "raw_text": "三(7)数"
+      },
+      {
+        "week_no": 12,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(6)代",
+        "course_color": "FF0000",
+        "raw_text": "三(6)代"
       },
       {
         "week_no": 12,
