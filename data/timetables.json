@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25 10:30:05",
+  "updated_at": "2026-05-25 11:00:06",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -1068,6 +1068,17 @@
       {
         "week_no": 13,
         "slot_type": "normal",
+        "weekday": "周一",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "三(1)语",
+        "course_color": "0000FF",
+        "raw_text": "三(1)语"
+      },
+      {
+        "week_no": 13,
+        "slot_type": "normal",
         "weekday": "周二",
         "section_no": 5,
         "section": "第5节",
@@ -1094,9 +1105,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(1)语",
-        "course_color": "",
-        "raw_text": "三(1)语"
+        "course": "姚玫伊换",
+        "course_color": "808080",
+        "raw_text": "姚玫伊换"
       },
       {
         "week_no": 13,
@@ -1546,6 +1557,17 @@
       {
         "week_no": 13,
         "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "六(10)书",
+        "course_color": "0000FF",
+        "raw_text": "六(10)书"
+      },
+      {
+        "week_no": 13,
+        "slot_type": "normal",
         "weekday": "周三",
         "section_no": 5,
         "section": "第5节",
@@ -1572,9 +1594,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "六(10)书",
-        "course_color": "",
-        "raw_text": "六(10)书"
+        "course": "马兴涛换",
+        "course_color": "808080",
+        "raw_text": "马兴涛换"
       },
       {
         "week_no": 13,
