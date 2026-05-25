@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25 15:30:04",
+  "updated_at": "2026-05-25 16:00:14",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -1485,9 +1485,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "一(13)科",
-        "course_color": "",
-        "raw_text": "一(13)科"
+        "course": "麦佩玲换",
+        "course_color": "808080",
+        "raw_text": "麦佩玲换"
       },
       {
         "week_no": 13,
@@ -1605,9 +1605,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "马兴涛换",
-        "course_color": "808080",
-        "raw_text": "马兴涛换"
+        "course": "一(13)科",
+        "course_color": "0000FF",
+        "raw_text": "一(13)科"
       },
       {
         "week_no": 13,
