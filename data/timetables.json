@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 09:00:03",
+  "updated_at": "2026-05-26 09:30:04",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -2029,9 +2029,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "五(4)语",
-        "course_color": "",
-        "raw_text": "五(4)语"
+        "course": "李锦燃换",
+        "course_color": "808080",
+        "raw_text": "李锦燃换"
       },
       {
         "week_no": 13,
@@ -2043,6 +2043,17 @@
         "course": "二(8)体",
         "course_color": "",
         "raw_text": "二(8)体"
+      },
+      {
+        "week_no": 13,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 4,
+        "section": "第4节",
+        "time": "11:25",
+        "course": "五(4)语",
+        "course_color": "0000FF",
+        "raw_text": "五(4)语"
       },
       {
         "week_no": 13,
