@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 07:30:04",
+  "updated_at": "2026-05-26 08:00:03",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -485,9 +485,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "三(6)数",
-        "course_color": "",
-        "raw_text": "三(6)数"
+        "course": "王显甲代",
+        "course_color": "808080",
+        "raw_text": "王显甲代"
       },
       {
         "week_no": 13,
@@ -583,9 +583,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(7)数",
-        "course_color": "",
-        "raw_text": "三(7)数"
+        "course": "温秋花代",
+        "course_color": "808080",
+        "raw_text": "温秋花代"
       },
       {
         "week_no": 13,
