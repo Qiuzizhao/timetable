@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27 17:30:04",
+  "updated_at": "2026-05-27 18:00:03",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -1029,9 +1029,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "三(1)语",
-        "course_color": "",
-        "raw_text": "三(1)语"
+        "course": "岑卓燕换",
+        "course_color": "808080",
+        "raw_text": "岑卓燕换"
       },
       {
         "week_no": 13,
@@ -1162,6 +1162,17 @@
         "time": "14:20",
         "course": "三(1)语",
         "course_color": "",
+        "raw_text": "三(1)语"
+      },
+      {
+        "week_no": 13,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "三(1)语",
+        "course_color": "0000FF",
         "raw_text": "三(1)语"
       },
       {
