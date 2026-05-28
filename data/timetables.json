@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28 18:00:05",
+  "updated_at": "2026-05-28 18:30:03",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -40,9 +40,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "房正换",
-        "course_color": "808080",
-        "raw_text": "房正换"
+        "course": "六(9)电",
+        "course_color": "0000FF",
+        "raw_text": "六(9)电"
       },
       {
         "week_no": 13,
@@ -51,9 +51,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "六(9)电",
-        "course_color": "0000FF",
-        "raw_text": "六(9)电"
+        "course": "房正换",
+        "course_color": "808080",
+        "raw_text": "房正换"
       },
       {
         "week_no": 13,
@@ -1062,9 +1062,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "吴桂凤换",
-        "course_color": "808080",
-        "raw_text": "吴桂凤换"
+        "course": "三(12)语",
+        "course_color": "",
+        "raw_text": "三(12)语"
       },
       {
         "week_no": 13,
@@ -1109,17 +1109,6 @@
         "course": "吴桂凤换",
         "course_color": "808080",
         "raw_text": "吴桂凤换"
-      },
-      {
-        "week_no": 13,
-        "slot_type": "normal",
-        "weekday": "周五",
-        "section_no": 2,
-        "section": "第2节",
-        "time": "9:40",
-        "course": "三(12)语",
-        "course_color": "0000FF",
-        "raw_text": "三(12)语"
       },
       {
         "week_no": 13,
