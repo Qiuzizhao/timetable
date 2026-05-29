@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 08:30:04",
+  "updated_at": "2026-05-29 09:00:05",
   "week_start": "2026-05-25",
   "current_week": null,
   "users": [
@@ -51,9 +51,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "房正换",
+        "course": "刘苑娴换",
         "course_color": "808080",
-        "raw_text": "房正换"
+        "raw_text": "刘苑娴换"
       },
       {
         "week_no": 13,
