@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03 15:00:04",
+  "updated_at": "2026-06-03 15:30:04",
   "week_start": "2026-06-01",
   "current_week": null,
   "users": [
@@ -193,9 +193,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "五(3)劳",
-        "course_color": "",
-        "raw_text": "五(3)劳"
+        "course": "韩艺卓帮",
+        "course_color": "808080",
+        "raw_text": "韩艺卓帮"
       },
       {
         "week_no": 14,
@@ -379,6 +379,17 @@
         "course": "三(10)科",
         "course_color": "",
         "raw_text": "三(10)科"
+      },
+      {
+        "week_no": 15,
+        "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 6,
+        "section": "第6节",
+        "time": "15:05",
+        "course": "六(1)帮",
+        "course_color": "008000",
+        "raw_text": "六(1)帮"
       },
       {
         "week_no": 15,
