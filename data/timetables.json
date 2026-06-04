@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04 15:30:04",
+  "updated_at": "2026-06-04 16:00:05",
   "week_start": "2026-06-01",
   "current_week": null,
   "users": [
@@ -76,6 +76,17 @@
         "course": "三(9)科",
         "course_color": "0000FF",
         "raw_text": "三(9)科"
+      },
+      {
+        "week_no": 14,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(8)代",
+        "course_color": "FF0000",
+        "raw_text": "三(8)代"
       },
       {
         "week_no": 14,
