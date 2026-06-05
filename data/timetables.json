@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05 16:30:03",
+  "updated_at": "2026-06-05 17:00:03",
   "week_start": "2026-06-01",
   "current_week": null,
   "users": [
@@ -1811,9 +1811,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "六(2)语",
-        "course_color": "",
-        "raw_text": "六(2)语"
+        "course": "汪佩娟换",
+        "course_color": "808080",
+        "raw_text": "汪佩娟换"
       },
       {
         "week_no": 15,
@@ -1868,6 +1868,17 @@
         "time": "14:00",
         "course": "",
         "raw_text": ""
+      },
+      {
+        "week_no": 15,
+        "slot_type": "normal",
+        "weekday": "周一",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "六(2)语",
+        "course_color": "0000FF",
+        "raw_text": "六(2)语"
       },
       {
         "week_no": 15,
