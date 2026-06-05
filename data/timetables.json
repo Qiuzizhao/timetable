@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05 08:00:03",
+  "updated_at": "2026-06-05 08:30:03",
   "week_start": "2026-06-01",
   "current_week": null,
   "users": [
@@ -76,17 +76,6 @@
         "course": "三(9)科",
         "course_color": "0000FF",
         "raw_text": "三(9)科"
-      },
-      {
-        "week_no": 14,
-        "slot_type": "normal",
-        "weekday": "周五",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "三(8)代",
-        "course_color": "FF0000",
-        "raw_text": "三(8)代"
       },
       {
         "week_no": 14,
@@ -569,6 +558,17 @@
       {
         "week_no": 14,
         "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(6)劳",
+        "course_color": "0000FF",
+        "raw_text": "三(6)劳"
+      },
+      {
+        "week_no": 14,
+        "slot_type": "normal",
         "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
@@ -638,9 +638,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(6)劳",
-        "course_color": "",
-        "raw_text": "三(6)劳"
+        "course": "李反修换",
+        "course_color": "808080",
+        "raw_text": "李反修换"
       },
       {
         "week_no": 14,
@@ -2065,6 +2065,17 @@
         "course": "二(8)体",
         "course_color": "",
         "raw_text": "二(8)体"
+      },
+      {
+        "week_no": 14,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "五(9)代",
+        "course_color": "FF0000",
+        "raw_text": "五(9)代"
       },
       {
         "week_no": 14,
