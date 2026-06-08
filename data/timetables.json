@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08 15:30:05",
+  "updated_at": "2026-06-08 16:00:04",
   "week_start": "2026-06-08",
   "current_week": null,
   "users": [
@@ -51,9 +51,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "温秋花换",
-        "course_color": "808080",
-        "raw_text": "温秋花换"
+        "course": "六(5)代",
+        "course_color": "FF0000",
+        "raw_text": "六(5)代"
       },
       {
         "week_no": 15,
