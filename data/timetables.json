@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09 12:30:04",
+  "updated_at": "2026-06-09 13:00:04",
   "week_start": "2026-06-08",
   "current_week": null,
   "users": [
@@ -2029,9 +2029,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "五(4)语",
-        "course_color": "",
-        "raw_text": "五(4)语"
+        "course": "丁一航换",
+        "course_color": "808080",
+        "raw_text": "丁一航换"
       },
       {
         "week_no": 15,
@@ -2097,6 +2097,17 @@
         "course": "六(1)书",
         "course_color": "",
         "raw_text": "六(1)书"
+      },
+      {
+        "week_no": 15,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "五(4)语",
+        "course_color": "0000FF",
+        "raw_text": "五(4)语"
       },
       {
         "week_no": 15,
