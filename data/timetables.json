@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 17:00:04",
+  "updated_at": "2026-06-17 17:30:04",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -21,6 +21,17 @@
         "time": "7:40",
         "course": "",
         "raw_text": ""
+      },
+      {
+        "week_no": 16,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
+        "course": "六(8)电",
+        "course_color": "0000FF",
+        "raw_text": "六(8)电"
       },
       {
         "week_no": 16,
@@ -73,9 +84,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "六(8)电",
+        "course": "六(5)电",
         "course_color": "0000FF",
-        "raw_text": "六(8)电"
+        "raw_text": "六(5)电"
       },
       {
         "week_no": 16,
@@ -171,9 +182,9 @@
         "section_no": 5,
         "section": "第5节",
         "time": "14:20",
-        "course": "六(5)电",
-        "course_color": "",
-        "raw_text": "六(5)电"
+        "course": "王辛换",
+        "course_color": "808080",
+        "raw_text": "王辛换"
       },
       {
         "week_no": 16,
