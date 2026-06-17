@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 10:00:04",
+  "updated_at": "2026-06-17 10:30:06",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -1606,9 +1606,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "六(6)书",
-        "course_color": "",
-        "raw_text": "六(6)书"
+        "course": "何小媛换",
+        "course_color": "808080",
+        "raw_text": "何小媛换"
       },
       {
         "week_no": 16,
@@ -1759,6 +1759,17 @@
         "course": "六(2)",
         "course_color": "",
         "raw_text": "六(2)"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周一",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
+        "course": "六(6)书",
+        "course_color": "0000FF",
+        "raw_text": "六(6)书"
       },
       {
         "week_no": 17,
