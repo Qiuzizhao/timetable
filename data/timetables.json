@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 15:30:05",
+  "updated_at": "2026-06-17 16:00:04",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -285,17 +285,6 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周三",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "六(10)电",
-        "course_color": "",
-        "raw_text": "六(10)电"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
         "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
@@ -354,9 +343,9 @@
         "section_no": 5,
         "section": "第5节",
         "time": "14:20",
-        "course": "三(10)科",
+        "course": "六(10)电",
         "course_color": "",
-        "raw_text": "三(10)科"
+        "raw_text": "六(10)电"
       },
       {
         "week_no": 17,
@@ -379,6 +368,17 @@
         "course": "六(5)电",
         "course_color": "",
         "raw_text": "六(5)电"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 5,
+        "section": "第5节",
+        "time": "14:20",
+        "course": "三(10)科",
+        "course_color": "",
+        "raw_text": "三(10)科"
       },
       {
         "week_no": 17,
@@ -829,6 +829,17 @@
       {
         "week_no": 17,
         "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(6)数",
+        "course_color": "",
+        "raw_text": "三(6)数"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
         "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
@@ -879,17 +890,6 @@
         "course": "三(7)数",
         "course_color": "",
         "raw_text": "三(7)数"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周四",
-        "section_no": 6,
-        "section": "第6节",
-        "time": "15:05",
-        "course": "三(6)数",
-        "course_color": "",
-        "raw_text": "三(6)数"
       },
       {
         "week_no": 17,
@@ -1785,10 +1785,10 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周四",
-        "section_no": 1,
-        "section": "第1节",
-        "time": "8:50",
+        "weekday": "周三",
+        "section_no": 2,
+        "section": "第2节",
+        "time": "9:40",
         "course": "一(13)科",
         "course_color": "",
         "raw_text": "一(13)科"
@@ -2296,13 +2296,24 @@
       {
         "week_no": 17,
         "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 2,
+        "section": "第2节",
+        "time": "9:40",
+        "course": "二(6)体",
+        "course_color": "",
+        "raw_text": "二(6)体"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
         "weekday": "周五",
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "二(11)体",
+        "course": "二(7)体",
         "course_color": "",
-        "raw_text": "二(11)体"
+        "raw_text": "二(7)体"
       },
       {
         "week_no": 17,
@@ -2318,24 +2329,13 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周四",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "二(8)体",
-        "course_color": "",
-        "raw_text": "二(8)体"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周三",
+        "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "二(6)体",
+        "course": "二(8)体",
         "course_color": "",
-        "raw_text": "二(6)体"
+        "raw_text": "二(8)体"
       },
       {
         "week_no": 17,
@@ -2390,17 +2390,6 @@
         "course": "五(4)综",
         "course_color": "",
         "raw_text": "五(4)综"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周三",
-        "section_no": 6,
-        "section": "第6节",
-        "time": "15:05",
-        "course": "二(7)体",
-        "course_color": "",
-        "raw_text": "二(7)体"
       },
       {
         "week_no": 17,
@@ -2818,13 +2807,24 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周二",
+        "weekday": "周三",
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
         "course": "一(9)数",
         "course_color": "",
         "raw_text": "一(9)数"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
+        "course": "二(14)探",
+        "course_color": "",
+        "raw_text": "二(14)探"
       },
       {
         "week_no": 17,
@@ -2847,6 +2847,17 @@
         "course": "二(14)数",
         "course_color": "",
         "raw_text": "二(14)数"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 2,
+        "section": "第2节",
+        "time": "9:40",
+        "course": "二(10)数",
+        "course_color": "",
+        "raw_text": "二(10)数"
       },
       {
         "week_no": 17,
@@ -2885,28 +2896,6 @@
         "week_no": 17,
         "slot_type": "normal",
         "weekday": "周三",
-        "section_no": 3,
-        "section": "第3节",
-        "time": "10:35",
-        "course": "二(10)数",
-        "course_color": "",
-        "raw_text": "二(10)数"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周三",
-        "section_no": 4,
-        "section": "第4节",
-        "time": "11:25",
-        "course": "二(14)数",
-        "course_color": "",
-        "raw_text": "二(14)数"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周四",
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
@@ -2938,17 +2927,6 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周一",
-        "section_no": 5,
-        "section": "第5节",
-        "time": "14:20",
-        "course": "一(9)数",
-        "course_color": "",
-        "raw_text": "一(9)数"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
         "weekday": "周二",
         "section_no": 5,
         "section": "第5节",
@@ -2971,13 +2949,24 @@
       {
         "week_no": 17,
         "slot_type": "normal",
-        "weekday": "周五",
-        "section_no": 5,
-        "section": "第5节",
-        "time": "14:20",
-        "course": "二(14)探",
+        "weekday": "周二",
+        "section_no": 6,
+        "section": "第6节",
+        "time": "15:05",
+        "course": "一(9)数",
         "course_color": "",
-        "raw_text": "二(14)探"
+        "raw_text": "一(9)数"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 6,
+        "section": "第6节",
+        "time": "15:05",
+        "course": "二(14)数",
+        "course_color": "",
+        "raw_text": "二(14)数"
       },
       {
         "week_no": 17,
