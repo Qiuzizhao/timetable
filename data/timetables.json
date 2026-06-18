@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 08:00:05",
+  "updated_at": "2026-06-18 08:30:05",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -536,6 +536,17 @@
       {
         "week_no": 16,
         "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
+        "course": "三(6)数",
+        "course_color": "0000FF",
+        "raw_text": "三(6)数"
+      },
+      {
+        "week_no": 16,
+        "slot_type": "normal",
         "weekday": "周五",
         "section_no": 1,
         "section": "第1节",
@@ -584,9 +595,9 @@
         "section_no": 3,
         "section": "第3节",
         "time": "10:35",
-        "course": "三(6)数",
-        "course_color": "0000FF",
-        "raw_text": "三(6)数"
+        "course": "叶惠芬换",
+        "course_color": "808080",
+        "raw_text": "叶惠芬换"
       },
       {
         "week_no": 16,
