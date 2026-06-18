@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 21:30:05",
+  "updated_at": "2026-06-18 22:00:06",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -300,9 +300,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "六(9)电",
-        "course_color": "0000FF",
-        "raw_text": "六(9)电"
+        "course": "六(9)帮",
+        "course_color": "008000",
+        "raw_text": "六(9)帮"
       },
       {
         "week_no": 17,
