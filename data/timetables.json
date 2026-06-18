@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 11:30:04",
+  "updated_at": "2026-06-18 12:00:04",
   "week_start": "2026-06-15",
   "current_week": null,
   "users": [
@@ -2300,9 +2300,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "刘婷婷换",
-        "course_color": "808080",
-        "raw_text": "刘婷婷换"
+        "course": "二(11)体",
+        "course_color": "",
+        "raw_text": "二(11)体"
       },
       {
         "week_no": 17,
@@ -2412,17 +2412,6 @@
         "course": "五(4)综",
         "course_color": "",
         "raw_text": "五(4)综"
-      },
-      {
-        "week_no": 17,
-        "slot_type": "normal",
-        "weekday": "周四",
-        "section_no": 6,
-        "section": "第6节",
-        "time": "15:05",
-        "course": "二(11)体",
-        "course_color": "0000FF",
-        "raw_text": "二(11)体"
       },
       {
         "week_no": 17,
