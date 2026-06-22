@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 14:30:04",
+  "updated_at": "2026-06-22 15:00:04",
   "week_start": "2026-06-22",
   "current_week": null,
   "users": [
@@ -573,9 +573,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "三(7)数",
-        "course_color": "",
-        "raw_text": "三(7)数"
+        "course": "赖启忠换",
+        "course_color": "808080",
+        "raw_text": "赖启忠换"
       },
       {
         "week_no": 17,
@@ -586,6 +586,17 @@
         "time": "9:40",
         "course": "三(7)数",
         "course_color": "",
+        "raw_text": "三(7)数"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周二",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(7)数",
+        "course_color": "0000FF",
         "raw_text": "三(7)数"
       },
       {
