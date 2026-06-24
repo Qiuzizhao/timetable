@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24 12:00:05",
+  "updated_at": "2026-06-24 12:30:04",
   "week_start": "2026-06-22",
   "current_week": null,
   "users": [
@@ -1073,9 +1073,9 @@
         "section_no": 1,
         "section": "第1节",
         "time": "8:50",
-        "course": "三(1)语",
-        "course_color": "",
-        "raw_text": "三(1)语"
+        "course": "刘苑娴换",
+        "course_color": "808080",
+        "raw_text": "刘苑娴换"
       },
       {
         "week_no": 17,
@@ -1131,6 +1131,17 @@
         "course": "三(12)语",
         "course_color": "",
         "raw_text": "三(12)语"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周四",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(1)语",
+        "course_color": "0000FF",
+        "raw_text": "三(1)语"
       },
       {
         "week_no": 17,
