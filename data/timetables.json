@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 17:30:04",
+  "updated_at": "2026-06-25 18:00:05",
   "week_start": "2026-06-22",
   "current_week": null,
   "users": [
@@ -635,6 +635,17 @@
       {
         "week_no": 17,
         "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 3,
+        "section": "第3节",
+        "time": "10:35",
+        "course": "三(6)班",
+        "course_color": "0000FF",
+        "raw_text": "三(6)班"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
         "weekday": "周一",
         "section_no": 4,
         "section": "第4节",
@@ -704,9 +715,9 @@
         "section_no": 6,
         "section": "第6节",
         "time": "15:05",
-        "course": "三(6)班",
-        "course_color": "",
-        "raw_text": "三(6)班"
+        "course": "李反修换",
+        "course_color": "808080",
+        "raw_text": "李反修换"
       },
       {
         "week_no": 17,
