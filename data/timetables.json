@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 12:00:04",
+  "updated_at": "2026-06-25 12:30:11",
   "week_start": "2026-06-22",
   "current_week": null,
   "users": [
@@ -2128,9 +2128,9 @@
         "section_no": 2,
         "section": "第2节",
         "time": "9:40",
-        "course": "二(7)体",
-        "course_color": "",
-        "raw_text": "二(7)体"
+        "course": "朱佳佳换",
+        "course_color": "808080",
+        "raw_text": "朱佳佳换"
       },
       {
         "week_no": 17,
@@ -2273,6 +2273,17 @@
         "course": "二(11)体",
         "course_color": "0000FF",
         "raw_text": "二(11)体"
+      },
+      {
+        "week_no": 17,
+        "slot_type": "normal",
+        "weekday": "周五",
+        "section_no": 6,
+        "section": "第6节",
+        "time": "15:05",
+        "course": "二(7)体",
+        "course_color": "0000FF",
+        "raw_text": "二(7)体"
       },
       {
         "week_no": 17,
