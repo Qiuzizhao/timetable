@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 16:30:48",
+  "updated_at": "2026-09-08 18:30:05",
   "week_start": "2026-09-07",
   "current_week": null,
   "users": [
@@ -32,6 +32,17 @@
         "course": "三(5)电",
         "course_color": "",
         "raw_text": "三(5)电"
+      },
+      {
+        "week_no": 2,
+        "slot_type": "normal",
+        "weekday": "周三",
+        "section_no": 1,
+        "section": "第1节",
+        "time": "8:50",
+        "course": "三(8)电",
+        "course_color": "0000FF",
+        "raw_text": "三(8)电"
       },
       {
         "week_no": 2,
@@ -117,9 +128,9 @@
         "section_no": 4,
         "section": "第4节",
         "time": "11:25",
-        "course": "三(8)电",
-        "course_color": "",
-        "raw_text": "三(8)电"
+        "course": "陆璐换",
+        "course_color": "808080",
+        "raw_text": "陆璐换"
       },
       {
         "week_no": 2,
